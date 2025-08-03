@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 
-I'm a passionate and curious developer studying Computer Science and Mathematics at the University of Exeter. With a strong academic foundation and hands-on experience in full-stack development, machine learning, and software engineering, I'm focused on building impactful, user-centric applications.
+I'm a passionate and curious developer studying Computer Science and Mathematics at the University of Exeter. With a strong academic foundation and hands-on experience in full-stack development, machine learning, and software engineering. I'm focused on building impactful, user-centric applications.
 
 I'm particularly excited about AI, data-driven solutions, and scalable web technologies. I enjoy collaborating on meaningful projects that blend technical rigor with creative problem-solving.
 
@@ -49,7 +49,7 @@ Full-stack gamified platform encouraging sustainable habits in students through 
 
 ### 🧠 [AI for Brain Tumour Detection](https://github.com/lewisFarley403/brain-tumour-detection)  
 **TensorFlow, Python, NumPy**  
-Implemented CNNs to classify MRI scans with 96% accuracy using advanced hyperparameter tuning (Bayesian search).  
+Implemented Convolutiuonal Neural Networks (CNNs) to classify MRI scans with 96% accuracy using advanced hyperparameter tuning (Bayesian search).  
 📈 Ranked in the top 10% of the cohort with an 87% module score.
 
 ---
