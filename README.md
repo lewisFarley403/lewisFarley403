@@ -53,7 +53,7 @@ Implemented Convolutiuonal Neural Networks (CNNs) to classify MRI scans with 96%
 📈 Ranked in the top 10% of the cohort with an 87% module score.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisFarley403_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewisFarley403&count_weight=0.5)
 ## 🛠️ Tech Stack
 
 **Languages:** Python, Java, JavaScript, SQL, HTML/CSS  
