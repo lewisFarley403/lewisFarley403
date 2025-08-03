@@ -63,7 +63,7 @@ Multiplayer browser-based Battleship game with basic AI and real-time feedback.
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=lewisFarley403&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisFarley403&layout=compact&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisFarley403&theme=tokyonight&layout=compact&langs_count=6" height="150" />
 </p>
 
 ---
