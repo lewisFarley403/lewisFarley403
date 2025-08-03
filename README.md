@@ -22,7 +22,7 @@ Currently studying Computer Science and Mathematics at the University of Exeter,
 Sustainable meal planner to reduce food waste and support budgeting — developed in 24 hours for a Hackathon.  
 🏆 *3rd Place – Exeter Google Code Jam*
 
-### 🎯 [AI for Brain Tumour Detection](https://github.com/lewisFarley403/brain-tumour-detection)  
+### 🎯 [AI for Brain Tumour Detection](https://github.com/lewisFarley403/brainTumourDetection/tree/main)  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
 Used CNNs and Bayesian hyperparameter tuning to detect tumours in MRI scans with 96% accuracy.  
 📈 *Top 10% of cohort with 87% module score*
