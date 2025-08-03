@@ -43,7 +43,7 @@ Built a sustainable meal planning app to reduce food waste and support students 
 **Python, Flask, JavaScript**  
 Created an interactive multiplayer Battleships game with AI opponents and real-time web sockets.  
 
-### 🌍 [Eco World](https://github.com/lewisFarley403/eco-world)  
+### 🌍 [Eco World](https://github.com/lewisFarley403/EcoWorld)  
 **Django, HTML/CSS, JavaScript**  
 Full-stack gamified platform encouraging sustainable habits in students through QR verification and location-based challenges.
 
