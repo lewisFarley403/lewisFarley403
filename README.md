@@ -31,14 +31,6 @@ I'm particularly excited about AI, data-driven solutions, and scalable web techn
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, JavaScript, SQL, HTML/CSS  
-**Frameworks & Tools:** React, Node.js, Flask, Django, Qt5  
-**Libraries:** TensorFlow, NumPy, Matplotlib, Selenium, Beautiful Soup  
-**Developer Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ
-
----
 
 ## 🚀 Featured Projects
 
@@ -59,6 +51,15 @@ Full-stack gamified platform encouraging sustainable habits in students through 
 **TensorFlow, Python, NumPy**  
 Implemented CNNs to classify MRI scans with 96% accuracy using advanced hyperparameter tuning (Bayesian search).  
 📈 Ranked in the top 10% of the cohort with an 87% module score.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL, HTML/CSS  
+**Frameworks & Tools:** React, Node.js, Flask, Django, Qt5  
+**Libraries:** TensorFlow, NumPy, Matplotlib, Selenium, Beautiful Soup  
+**Developer Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ
 
 ---
 
