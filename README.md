@@ -39,7 +39,7 @@ I'm particularly excited about AI, data-driven solutions, and scalable web techn
 Built a sustainable meal planning app to reduce food waste and support students on a budget.  
 🏆 Placed 3rd at Exeter Google Code Jam  
 
-### 🚢 [ECM1400 Battleships](https://github.com/lewisFarley403/ECM1400-Battleships)  
+### 🚢 [ECM1400 Battleships](https://github.com/lewisFarley403/battleships)  
 **Python, Flask, JavaScript**  
 Created an interactive multiplayer Battleships game with AI opponents and real-time web sockets.  
 
